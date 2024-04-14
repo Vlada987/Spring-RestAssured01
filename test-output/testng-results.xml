@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-14T09:08:14 CEST" name="Default suite" finished-at="2024-04-14T09:08:19 CEST" duration-ms="4140">
+    <groups>
+    </groups>
+    <test started-at="2024-04-14T09:08:14 CEST" name="Default test" finished-at="2024-04-14T09:08:19 CEST" duration-ms="4140">
+      <class name="testCases.TestOne">
+        <test-method signature="getAlldataTest()[pri:1, instance:testCases.TestOne@3315d2d7]" started-at="2024-04-14T09:08:15 CEST" name="getAlldataTest" finished-at="2024-04-14T09:08:18 CEST" duration-ms="2979" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAlldataTest -->
+        <test-method signature="postTest()[pri:2, instance:testCases.TestOne@3315d2d7]" started-at="2024-04-14T09:08:18 CEST" name="postTest" finished-at="2024-04-14T09:08:18 CEST" duration-ms="880" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postTest -->
+        <test-method signature="getAlldataAfterPostingNewHumanTest()[pri:3, instance:testCases.TestOne@3315d2d7]" started-at="2024-04-14T09:08:18 CEST" name="getAlldataAfterPostingNewHumanTest" finished-at="2024-04-14T09:08:18 CEST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAlldataAfterPostingNewHumanTest -->
+        <test-method signature="updateHumanFromTheList()[pri:4, instance:testCases.TestOne@3315d2d7]" started-at="2024-04-14T09:08:18 CEST" name="updateHumanFromTheList" finished-at="2024-04-14T09:08:18 CEST" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateHumanFromTheList -->
+        <test-method signature="getAlldataAfterUpdateHumanTest()[pri:5, instance:testCases.TestOne@3315d2d7]" started-at="2024-04-14T09:08:18 CEST" name="getAlldataAfterUpdateHumanTest" finished-at="2024-04-14T09:08:19 CEST" duration-ms="115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAlldataAfterUpdateHumanTest -->
+      </class> <!-- testCases.TestOne -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
